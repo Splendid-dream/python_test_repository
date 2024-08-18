@@ -1,2 +1,4 @@
 /venv/
-/test/
+.pytest_cache/
+.vscode/
+__*
